@@ -1,0 +1,11 @@
+{
+  "name": "server-api-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:felipekesley/server-api-dev.git",
+  "author": "Felipe Kesley <keslley778@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+		"dev": "cd server && yarn dev"
+	}
+}
