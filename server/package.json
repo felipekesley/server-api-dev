@@ -1,0 +1,13 @@
+{
+  "name": "life-med-api-fake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Felipe Kesley <keslley778@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+		"dev": "json-server --watch db.json --port 4000"
+	},
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
