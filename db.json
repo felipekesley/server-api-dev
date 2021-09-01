@@ -179,5 +179,23 @@
 			"img_url": "partner4.png",
 			"img_alt": ""
 		}
+	],
+	"units": [
+		{
+			"id": 0,
+			"title": "Unidade Maceió",
+			"address": "R. Cláudio Lívio, 110 - Farol Maceió - AL, 57055-180",
+			"url": "https://www.google.com/maps/search/?api=1&query=-9.6465037,-35.7402928",
+			"lat": "-9.6465037",
+			"lng": "-35.7402928"
+		},
+		{
+			"id": 1,
+			"title": "Unidade São Paulo",
+			"address": "Rua Castilho, 392 - 6º Andar – Brooklin PaulistaSão Paulo - SP - CEP: 04568-010",
+			"url": "https://www.google.com/maps/search/?api=1&query=-23.612157,-46.6944735",
+			"lat": "-23.612157",
+			"lng": "-46.6944735"
+		}
 	]
 }
