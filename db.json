@@ -217,8 +217,9 @@
 		{
 			"id": 0,
 			"title": "Ortopedia",
+			"slug": "ortopedia",
 			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "produto/ortopedia",
+			"url": "ortopedia",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
@@ -227,8 +228,9 @@
 		{
 			"id": 1,
 			"title": "Próteses",
+			"slug": "proteses",
 			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "produto/proteses",
+			"url": "proteses",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
@@ -236,8 +238,9 @@
 		{
 			"id": 2,
 			"title": "Medicina Esportiva",
+			"slug": "medicina-esportiva",
 			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "produto/medicina-esportiva",
+			"url": "medicina-esportiva",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
@@ -245,8 +248,9 @@
 		{
 			"id": 3,
 			"title": "Bucomaxilo Facial",
+			"slug": "bucomaxilo-facial",
 			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "produto/bucomaxilo-facial",
+			"url": "bucomaxilo-facial",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
@@ -254,21 +258,9 @@
 		{
 			"id": 4,
 			"title": "Neurologia",
+			"slug": "neurologia",
 			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "produto/neurologia",
-			"productImage": "productImage.png",
-			"imageInfo": "imageInfo.jpg",
-			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
-		}
-	],
-	"product": [
-		{
-			"id": 0,
-			"title": "eveniet quod temporibus",
-			"body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
-			"imageUrl": "https://via.placeholder.com",
-			"thumbnailUrl": "https://via.placeholder.com",
-			"url": "eveniet-quod-temporibus",
+			"url": "neurologia",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
