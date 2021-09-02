@@ -223,6 +223,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
+			"productInfoTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
 		},
 		{
@@ -231,8 +232,10 @@
 			"slug": "proteses",
 			"thumbnailUrl": "https://via.placeholder.com",
 			"url": "proteses",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
+			"productInfoTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
 		},
 		{
@@ -241,8 +244,10 @@
 			"slug": "medicina-esportiva",
 			"thumbnailUrl": "https://via.placeholder.com",
 			"url": "medicina-esportiva",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
+			"productInfoTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
 		},
 		{
@@ -251,8 +256,10 @@
 			"slug": "bucomaxilo-facial",
 			"thumbnailUrl": "https://via.placeholder.com",
 			"url": "bucomaxilo-facial",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
+			"productInfoTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
 		},
 		{
@@ -261,8 +268,10 @@
 			"slug": "neurologia",
 			"thumbnailUrl": "https://via.placeholder.com",
 			"url": "neurologia",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus est blandit id sem elementum nam cras.",
 			"productImage": "productImage.png",
 			"imageInfo": "imageInfo.jpg",
+			"productInfoTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			"productInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum velit aliquam quam etiam non amet id. Orci nulla nulla pretium, tellus id ipsum blandit suscipit risus. Eu mauris nisl consequat aliquam. Tortor tellus etiam enim nullam leo nunc feugiat. Posuere gravida convallis cras maecenas ante elit ridiculus platea ac. Velit cras dui mi tellus."
 		}
 	]
