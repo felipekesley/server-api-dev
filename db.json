@@ -169,6 +169,23 @@
 			"url": "eveniet-quod-temporibus"
 		}
 	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Destaque",
+			"postId" : 1
+		},
+		{
+			"id": 2,
+			"name": "Saúde",
+			"postId" : 1
+		},
+		{
+			"id": 3,
+			"name": "Gastronomia",
+			"postId" : 2
+		}
+	],
 	"partners": [
 		{
 			"id": 0,
